@@ -1,0 +1,16 @@
+title: "Mapping in ArcGIS"
+description: "Learn the basics of how to map in ArcGIS"
+
+# Use remote theme
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+search_enabled: true
+
+# Required for remote themes
+plugins:
+  - jekyll-remote-theme
+
+# Build settings
+url: "https://TrentU-MaDGIC.github.io"
+baseurl: "/Mapping-in-ArcGIS"
