@@ -19,4 +19,6 @@ Feel free to explore the dataset here. Once you are ready, select **1. Download 
 
 ![Data 3](../assets/images/data_3.png)
 
+This data also often comes in a zip file as it is made up of a collection of files. You will also need to unzip it to use it in ArcGIS Pro. To unzip it, right click on the zip file and select **Extract all**.
+
 Now we can close our internet browser and open ArcGIS!
