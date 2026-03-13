@@ -4,11 +4,11 @@ title: Mapping
 nav_order: 5
 ---
 
-# Im the map, im the map, im the map, im the map
+# Joining the Data
 
-Beign by opening ArcGIS and clicking **Map**. Name it whatever you'd like and click **OK**
+We will join by DGUID (Dissemination Geography Unique Identifier). This is how we link the census data to the geospatial data. *Right-click* Provincial University Tuition
 
-![Arc 1](../assets/images/arc_1.png)
+![map 1](../assets/images/map_1.png)
 
 
 lpr_000b21a_e -> Provincial University Tuition
