@@ -28,11 +28,11 @@ Now you can *right-click* on the _csv in the contents pane and *click* Open. Thi
 ![Arc 8](../assets/images/arc_8.png)
 
 # Filtering Data
-We are now going to filter by year and by total field of study. These columns are **REF_DATE** and **Field of Study**. We will be looking at 4 years in ~5 year increments (2006/2007, 2011/2012, 2016/2017, 2025/2026). We will also be looking at the average of all fields which is *Total, field of study*. In order to filter our data set, with it selected in the contents pane, *click* **Select By Attributes**. For **Input Rows**, select the _csv file. We will then create two expressions. One where the **REF_DATE** is equal to 2006/2007, and another where the **Field of Study** is equal to *Total, field of study*. With both clauses added, **click* **OK**. 
+We are now going to filter by year and by total field of study. These columns are **REF_DATE** and **Field of Study**. We will be looking at 5 years in ~5 year increments (2006/2007, 2011/2012, 2016/2017, 2021/2022, 2025/2026). We will also be looking at the average of all fields which is *Total, field of study*. In order to filter our data set, with it selected in the contents pane, *click* **Select By Attributes**. For **Input Rows**, select the _csv file. We will then create two expressions. One where the **REF_DATE** is equal to 2006/2007, and another where the **Field of Study** is equal to *Total, field of study*. With both clauses added, **click* **OK**. 
 ![Arc 9](../assets/images/arc_9.png)
 
 This has now selected all rows where the year is 2006/2007 and the field is total. This should select one row per province/territory. With those now selected, *right-click* the _csv, *hover* over **Data**, and *click* **Export Table**. Change the output table name to something desriptive like: *Table_2006_2007* (Note: This cannot start with a number). *Click* **OK**. This has created a new table which you can inspect.
 
 ![Arc 10](../assets/images/arc_10.png)
 
-Now repeat this process for the other 3 years begining with **Select By Attributes**.
+Now repeat this process for the other 4 years begining with **Select By Attributes**.
