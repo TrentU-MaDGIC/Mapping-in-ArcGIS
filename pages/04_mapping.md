@@ -40,3 +40,16 @@ Since we are using manual breaks, let's make them nice even breaks. Starting at 
 Awesome, that's our first map done! Now we just need to repeat this for the other 4 years. Let's save this map. *Right-click* the 2006/2007 map and select **Save As Map File**. In the *Save As Map File* pane, remove the slash between 2006 and 2007, then *click* **Save**.
 
 ![map 6](../assets/images/map_6.png)
+
+Now we can import the map we just saved. *Click* **Import Map**, select **20062007.mapx**, and *click* **OK**.
+
+![map 7](../assets/images/map_7.png)
+
+This will open up a new map called **200620071**. Rename this to the next year, **2011/2012**. Open the **Symbology Pane** again and change the *Field* to the next **VALUE**. If you *hover* over it for long enough it should say *Name: Total_2011_2012.VALUE*. This will change to the tuition costs for those years. Since tuition increased, nothing fits in our smallest class (0-2000). We can delete this class. Now we can change the *Upper Values* and *Labels* once again. We want all of our maps to have the same classes so that when we put them together later, the colours represent the same dollar values.
+
+![map 8](../assets/images/map_8.png)
+
+Save this as a map file and repeat the same process for the remaining years.
+
+
+
