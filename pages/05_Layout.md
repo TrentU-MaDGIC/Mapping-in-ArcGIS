@@ -34,4 +34,21 @@ Once you've add all these frames your layout should look like this:
 
 # Map Elements
 
+All maps should have the following essential elements:
+* North Arrow or Compass Rose
+* Scale Bar or Scale Number
+* Legend
+* Title or Figure Caption
+* Author and/or Publisher
+* Date of Creation
+* Projection
 
+Let's add all of these! Since we are still in the *Insert* Tab we can see the **Map Surrounds** and **Graphics and Text** sections. From here we can add our first elements. 
+
+* North Arrow: Select the *North Arrow* drop-down and pick one that appeals to you. draw a square to place the arrow. Resize and move to your liking.
+
+* Title & Scale: select map frames one by one and click **Dynamic Text** in the **Graphics and Text** section. In this drop down you can select both *Scale* and *Name of Map*
+
+* Scale: You will need two scales, one for each of the aspect ratios. This means you should select one of the top map frames and create one. Then select one of the bottom map frames and do the same.
+
+* Legend: 
