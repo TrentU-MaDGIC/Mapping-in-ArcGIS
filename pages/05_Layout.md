@@ -62,4 +62,4 @@ Let's add all of these! Since we are still in the *Insert* Tab we can see the **
 Now, you should have a map that looks something like this:
 ![Layout 4](../assets/images/layout_4.png)
 
-Congratulations you have made your first full map using geospatial and census data! THe next section will show you how to export this masterpiece.
+Congratulations you have made your first full map using geospatial and census data! The next section will show you how to export this masterpiece.
