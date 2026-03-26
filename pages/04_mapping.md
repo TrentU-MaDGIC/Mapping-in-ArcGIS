@@ -21,6 +21,8 @@ Once you have changed those fields *click* **OK**
 
 Repeat this process with the other four years to join each of them to the geospatial data. Make sure when you are selecting the *Input Field* you select **DUID [lpr_000b21a_e.DGUID]**.
 
+# Mapping
+
 Now that all of our data is joined we can start creating maps for each of our years of interest. *Click* the Map once to rename it to 2006/2007. Now *Right-click* Provincial University Tuition and select **Symbology**
 
 ![map 3](../assets/images/map_3.png)
