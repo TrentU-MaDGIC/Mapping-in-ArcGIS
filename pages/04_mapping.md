@@ -33,7 +33,7 @@ This opens up the **Symbology** pane where we can change the primary symbology. 
 
 ![map 4](../assets/images/map_4.png)
 
-Since we are using manual breaks, let's make them nice even breaks. Starting at the bottom change the *Upper Value* to **12 000**. Decrease the value by 2000 each step down. Change the *Labels* to remove the excess 0's.
+Since we are using manual breaks, let's make them nice even breaks. Starting at the bottom change the *Upper Value* to **10 500**. Decrease the value by 1500 each step down. Change the *Labels* to remove the excess 0's.
 
 ![map 5](../assets/images/map_5.png)
 
