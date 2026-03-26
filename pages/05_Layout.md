@@ -45,10 +45,21 @@ All maps should have the following essential elements:
 
 Let's add all of these! Since we are still in the *Insert* Tab we can see the **Map Surrounds** and **Graphics and Text** sections. From here we can add our first elements. 
 
-* North Arrow: Select the *North Arrow* drop-down and pick one that appeals to you. draw a square to place the arrow. Resize and move to your liking.
+* **North Arrow:** Select the *North Arrow* drop-down and pick one that appeals to you. draw a square to place the arrow. Resize and move to your liking.
 
-* Title & Scale: select map frames one by one and click **Dynamic Text** in the **Graphics and Text** section. In this drop down you can select both *Scale* and *Name of Map*
+* **Title & Scale:** Select map frames one by one and click **Dynamic Text** in the **Graphics and Text** section. In this drop down you can select both *Scale* and *Name of Map*
 
-* Scale: You will need two scales, one for each of the aspect ratios. This means you should select one of the top map frames and create one. Then select one of the bottom map frames and do the same.
+* **Scale:** You will need two scales, one for each of the aspect ratios. This means you should select one of the top map frames and create one. Then select one of the bottom map frames and do the same.
 
-* Legend: 
+* **Legend:** Select one of the map frames that contains all 6 classes (2006/2007 would work) and select the legend drop-down. Select one and draw a box. Format to your liking.
+
+* **Projection:** Select **Dynamic Text** and select **Spatial Reference**. *Click* Select all to de-select eveything, then select *Projection*. Draw your box and adjust.
+
+* **Author and Date:** You can add a text box wherever you like. I chose to use the Projection text box and added my name and the data above the projection.
+
+* **Title:** I added 0.5 inches at the top for my title. To do this, *right-click* you map layout in the *Contents* pane and select *Properties*. Change 8.5in to 9in and *de-select* **Resize Elements**. This will automatically add 0.5 inches to the top of your page. Now you can select the Capital "A" under the **Graphics and Text* section to add your title.
+
+Now, you should have a map that looks something like this:
+![Layout 4](../assets/images/layout_4.png)
+
+Congratulations you have made your first full map using geospatial and census data! THe next section will show you how to export this masterpiece.
