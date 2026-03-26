@@ -38,4 +38,4 @@ This has now selected all rows where the year is 2006/2007 and the field is tota
 Now repeat this process for the other 4 years begining with **Select By Attributes**.
 
 ## Housekeeping
-Before we start mapping let's clean up a little bit. *Click* once on the boundary file lpr_000b21a_e. This will allow you to change the name. Let's change it to *Provincial University Tuition*. Additionally, we will begin by mapping 2006/2007 so following the same procedure, rename Map to 2006/2007.
+Before we start mapping let's clean up a little bit. *Click* once on the boundary file lpr_000b21a_e. This will allow you to change the name. Let's change it to *Provincial University Tuition*.
