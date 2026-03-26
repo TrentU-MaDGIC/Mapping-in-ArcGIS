@@ -45,12 +45,11 @@ Now we can import the map we just saved. *Click* **Import Map**, select **200620
 
 ![map 7](../assets/images/map_7.png)
 
-This will open up a new map called **200620071**. Rename this to the next year, **2011/2012**. Open the **Symbology Pane** again and change the *Field* to the next **VALUE**. If you *hover* over it for long enough it should say *Name: Total_2011_2012.VALUE*. This will change to the tuition costs for those years. Since tuition increased, nothing fits in our smallest class (0-2000). We can delete this class. Now we can change the *Upper Values* and *Labels* once again. We want all of our maps to have the same classes so that when we put them together later, the colours represent the same dollar values.
+This will open up a new map called **200620071**. Rename this to the next year, **2011/2012**. Open the **Symbology Pane** again and change the *Field* to the next **VALUE**. If you *hover* over it for long enough it should say *Name: Total_2011_2012.VALUE*. This will change to the tuition costs for those years. Now we can change the *Upper Values* and *Labels* once again. We want all of our maps to have the same classes so that when we put them together later, the colours represent the same dollar values.
 
 ![map 8](../assets/images/map_8.png)
 
-Save this as a map file and repeat the same process for the remaining years.
+Save this as a map file and repeat the same process for the remaining years. 
+When you get to 2021/2022, since tuition increased, nothing fits in our smallest class (0-3000). We can delete this class.
 
-
-
-
+Now all our maps are made! Let's move on to make a layout!
