@@ -5,10 +5,12 @@ nav_order: 1
 ---
 
 # Mapping in ArcGIS
-If you want to create a basic map of your study area using open-source tools and replicable methods, then this workshop is for you. Join James Marcaccio, GIS and Data Systems Specialist, for this introduction to creating basic maps using R. You'll learn how to
-- identify packages and basic functions for mapping in R
-- import and generate geospatial data
-- plot your data on a map for use in a research paper or poster.
+Description: If you want to create your first map in ArcGIS using Statistics Canada data, then this workshop is for you. Join Devan Desai, a MaDGIC Student Assistant, for this introduction to creating basic maps using ArcGIS. You'll learn how to: 
+- find and import geospatial and census data
+- import this geospatial and census data
+- combine your data
+- generate a map for use in a research paper or poster
+- export that map as a pdf
 
 **Prerequisites:** Attendees must have a working version of ArcGIS Pro to participate in this workshop. Prior experience is recommended, however, we will cover some basics.
 
